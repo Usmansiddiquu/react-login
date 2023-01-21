@@ -1,2 +1,22 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> CV(curriculum vitae) </title>
+</head>
+<body>
+<p> <b>Profile</b> </p>
+  <P> NAME: MUHAMMAD USMAN </P>
+<p>Father Name : Azaz Waris </p>
+<p><b> Contacts </b></p>  
+<p> Email : usmansiddiquimuhammad@gmail.com </p>
+<p> Phone : 03171046914 </p>
+<p> <b> Education :</b> Intermediate</p>
+<p> Experience : Fresh </p>
+<p> Hobbies : Books reading,cricket and experiments </p> 
+</body> 
+</html> 
